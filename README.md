@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Iván Muñoz Meneses 👋
 
-<!--
-**imunozm-aiops/imunozm-aiops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps & Infrastructure Engineer | AI SecOps Specialist
 
-Here are some ideas to get you started:
+I specialize in building secure, scalable, and intelligent cloud architectures. My focus is the intersection of **Infrastructure as Code (IaC)**, **Security Operations (SecOps)**, and **Artificial Intelligence**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Cloud:** AWS (EKS, S3, Lambda, RDS) & Azure.
+- **IaC:** Terraform, Terragrunt, Helm & ArgoCD.
+- **Security:** SecOps AI, Vulnerability Scanning (SafeOps), Critical Infrastructure Protection.
+- **SaaS Development:** SaludÁgil (Medical Scheduling) & ScraperLead (Lead Gen).
+
+### 📜 Certifications
+- **Critical Infrastructure Protection Fundamentals** - OPSWAT (March 2026).
+- **AWS Solutions Architect Associate** (In Progress).
+- **ISC2 Certified in Cybersecurity** (In Progress).
+
+### 🔭 Current Projects
+- **[infra-janitor](https://github.com/imunozm-aiops/infra-janitor):** An autonomous AI-powered cloud governance tool using Claude MCP.
+- **SaludÁgil:** Medical appointment scheduling platform.
+
+---
+📫 **How to reach me:** [imunozm.aiops@gmail.com](mailto:imunozm.aiops@gmail.com)
