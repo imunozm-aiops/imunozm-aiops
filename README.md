@@ -1,8 +1,8 @@
 # Hi there, I'm Iván Muñoz Meneses 👋
 
-<!-- BANNER TECNOLÓGICO Y CORE DISCIPLINAS -->
+<!-- BANNER ESTÁTICO DE ALTA DISPONIBILIDAD -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/image?type=waving&color=0d1117&height=220&section=header&text=AI%20SecOps%20/%20DevSecOps%20/%20IAOps&fontSize=35&fontColor=00ffcc&animation=twinkling" width="100%" alt="Banner AI SecOps" />
+  <img src="https://img.shields.io/badge/AI__SecOps--DevSecOps--IAOps-0d1117?style=for-the-badge&logo=ai&logoColor=00ffcc&labelColor=0d1117" width="100%" height="80px" alt="Banner AI SecOps" />
 </p>
 
 <p align="center">
@@ -50,19 +50,10 @@ Experienced Infrastructure Engineer dedicated exclusively to the convergence of 
 
 ---
 
-## Active AI-Ops Research & Projects
+## 🔬 Active AI-Ops Research & Projects
 
 * **[infra-janitor](https://github.com/imunozm-aiops/infra-janitor):** 
   An autonomous AI governance agent that parses Terraform plans via Python MCP servers to detect misconfigurations and generate remediation code before deployment.
-
----
-
-## GitOps Activity & Metrics (Interactive)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imunozm-aiops&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ivan GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imunozm-aiops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
-</p>
 
 ---
 **Technical Collaboration:** [imunozm.aiops@gmail.com](mailto:imunozm.aiops@gmail.com)
